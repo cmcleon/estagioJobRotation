@@ -1,3 +1,4 @@
+#RESPOSTA 2
 n = int(input("Que termo deseja encontrar: "))
 n1=0
 n2=1
