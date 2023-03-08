@@ -2,7 +2,6 @@
 
 Indice = 13
 Soma = 0
-
 k = 0
 
 while k < Indice:
